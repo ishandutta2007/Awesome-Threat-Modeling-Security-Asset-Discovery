@@ -30,7 +30,9 @@ This repository (`Awesome-Threat-Modeling-Security-Asset-Discovery`) is a compre
 - [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
 - [🔄 Threat Modeling & Asset Discovery Workflow](#-threat-modeling--asset-discovery-workflow)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsoring](#-support--sponsoring)
 - [⚖️ Disclaimer](#️-disclaimer)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -172,6 +174,25 @@ Contributions are welcome! Please follow these contribution standards:
 2. For SaaS tools, provide verifiable starting pricing details, trial limits, and official vendor documentation links.
 3. Keep descriptions objective, concise, and focused on threat modeling, asset discovery, and exposure management capabilities.
 4. Submit your pull request with a brief summary explaining why the tool is a valuable addition to the ecosystem.
+
+---
+
+## 💖 Support & Sponsoring
+
+Thank you for exploring and utilizing **Awesome Threat Modeling & Security Asset Discovery**! If this curated ecosystem guide assists your security architecture reviews, threat modeling initiatives, or perimeter asset reconnaissance workflows, please consider supporting the project:
+
+- ⭐ **Star** this repository to help other security architects and DevSecOps teams discover it.
+- 🔄 **Fork** and contribute newly launched threat-modeling frameworks or discovery tools.
+- 📢 **Share** this list across your engineering teams, infosec networks, and community channels.
+- ☕ **Sponsor / Buy Me a Coffee**: Help sustain ongoing research and curation across open-source security intelligence directories via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery&type=date&legend=top-left)
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery&type=date&legend=top-left)
 
 ---
 
