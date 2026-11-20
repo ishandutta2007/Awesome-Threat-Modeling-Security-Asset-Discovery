@@ -3,7 +3,7 @@
 [![Awesome Threat Modeling & Security Asset Discovery Banner](assets/banner.svg)](https://github.com/ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery)
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery?style=flat-square&color=blue" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery?style=flat-square&color=blue" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Threat-Modeling-Security-Asset-Discovery/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -70,87 +70,87 @@ The following SaaS and hosted enterprise platforms provide automated threat diag
 
 Open-source tools offer complete transparency, self-hosted privacy, extensible APIs, and customizable rulesets for security architects, AppSec teams, and penetration testers.
 
-*(Sorted by GitHub Stars in descending order)*
+*(Sorted by GitHub_Stars in descending order)*
 
-1. ⚡ **[Nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers)  
+1. ⚡ **[Nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers)  
    *Fast, customizable vulnerability scanner based on simple YAML templates for automated exposure and misconfiguration checks across discovered assets.*
 
-2. 🚀 **[Masscan](https://github.com/robertdavidgraham/masscan)** [![GitHub Stars](https://img.shields.io/github/stars/robertdavidgraham/masscan?style=social&color=white)](https://github.com/robertdavidgraham/masscan/stargazers)  
+2. 🚀 **[Masscan](https://github.com/robertdavidgraham/masscan)** [![GitHub_Stars](https://img.shields.io/github/stars/robertdavidgraham/masscan?style=social&color=white)](https://github.com/robertdavidgraham/masscan/stargazers)  
    *Ultra-fast asynchronous TCP port scanner capable of scanning entire internet ranges in minutes to discover open ports and live hosts.*
 
-3. 🕷️ **[SpiderFoot](https://github.com/smicallef/spiderfoot)** [![GitHub Stars](https://img.shields.io/github/stars/smicallef/spiderfoot?style=social&color=white)](https://github.com/smicallef/spiderfoot/stargazers)  
+3. 🕷️ **[SpiderFoot](https://github.com/smicallef/spiderfoot)** [![GitHub_Stars](https://img.shields.io/github/stars/smicallef/spiderfoot?style=social&color=white)](https://github.com/smicallef/spiderfoot/stargazers)  
    *Modular OSINT automation and attack surface discovery tool integrating 200+ modules for asset reconnaissance and exposure identification.*
 
-4. 📦 **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
+4. 📦 **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub_Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
    *Premier open-source IP address management (IPAM) and data center infrastructure management (DCIM) tool acting as a foundational source of truth for network assets.*
 
-5. 🌐 **[OWASP Amass](https://github.com/owasp-amass/amass)** [![GitHub Stars](https://img.shields.io/github/stars/owasp-amass/amass?style=social&color=white)](https://github.com/owasp-amass/amass/stargazers)  
+5. 🌐 **[OWASP Amass](https://github.com/owasp-amass/amass)** [![GitHub_Stars](https://img.shields.io/github/stars/owasp-amass/amass?style=social&color=white)](https://github.com/owasp-amass/amass/stargazers)  
    *Industry-standard attack surface mapping and external asset discovery engine performing in-depth DNS enumeration, scraping, and graph-based asset intelligence.*
 
-6. 🔍 **[Subfinder](https://github.com/projectdiscovery/subfinder)** [![GitHub Stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=social&color=white)](https://github.com/projectdiscovery/subfinder/stargazers)  
+6. 🔍 **[Subfinder](https://github.com/projectdiscovery/subfinder)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=social&color=white)](https://github.com/projectdiscovery/subfinder/stargazers)  
    *Fast passive subdomain discovery tool querying dozens of passive DNS, certificate transparency, and threat intelligence sources.*
 
-7. 🌐 **[HTTPX](https://github.com/projectdiscovery/httpx)** [![GitHub Stars](https://img.shields.io/github/stars/projectdiscovery/httpx?style=social&color=white)](https://github.com/projectdiscovery/httpx/stargazers)  
+7. 🌐 **[HTTPX](https://github.com/projectdiscovery/httpx)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/httpx?style=social&color=white)](https://github.com/projectdiscovery/httpx/stargazers)  
    *Multi-purpose HTTP toolkit probing discovered hosts for live web servers, technology stacks, TLS certificates, status codes, and response fingerprints.*
 
-8. 🛡️ **[OpenCTI](https://github.com/OpenCTI-Platform/opencti)** [![GitHub Stars](https://img.shields.io/github/stars/OpenCTI-Platform/opencti?style=social&color=white)](https://github.com/OpenCTI-Platform/opencti/stargazers)  
+8. 🛡️ **[OpenCTI](https://github.com/OpenCTI-Platform/opencti)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenCTI-Platform/opencti?style=social&color=white)](https://github.com/OpenCTI-Platform/opencti/stargazers)  
    *Cyber Threat Intelligence (CTI) platform structuring threat actors, attack vectors, vulnerabilities, and enterprise assets into a unified STIX2 knowledge graph.*
 
-9. 🎯 **[rEngine](https://github.com/yogeshojha/rengine)** [![GitHub Stars](https://img.shields.io/github/stars/yogeshojha/rengine?style=social&color=white)](https://github.com/yogeshojha/rengine/stargazers)  
+9. 🎯 **[rEngine](https://github.com/yogeshojha/rengine)** [![GitHub_Stars](https://img.shields.io/github/stars/yogeshojha/rengine?style=social&color=white)](https://github.com/yogeshojha/rengine/stargazers)  
    *Automated reconnaissance and external attack surface management suite combining configurable YAML workflows, subdomain/port discovery, and vuln tracking.*
 
-10. 🗄️ **[Steampipe](https://github.com/turbot/steampipe)** [![GitHub Stars](https://img.shields.io/github/stars/turbot/steampipe?style=social&color=white)](https://github.com/turbot/steampipe/stargazers)  
+10. 🗄️ **[Steampipe](https://github.com/turbot/steampipe)** [![GitHub_Stars](https://img.shields.io/github/stars/turbot/steampipe?style=social&color=white)](https://github.com/turbot/steampipe/stargazers)  
     *Zero-ETL cloud asset query engine allowing security teams to query live APIs of AWS, Azure, GCP, Kubernetes, and GitHub using standard SQL.*
 
-11. ⚔️ **[MITRE Caldera](https://github.com/mitre/caldera)** [![GitHub Stars](https://img.shields.io/github/stars/mitre/caldera?style=social&color=white)](https://github.com/mitre/caldera/stargazers)  
+11. ⚔️ **[MITRE Caldera](https://github.com/mitre/caldera)** [![GitHub_Stars](https://img.shields.io/github/stars/mitre/caldera?style=social&color=white)](https://github.com/mitre/caldera/stargazers)  
     *Automated adversary emulation and threat modeling validation platform built on MITRE ATT&CK to systematically test defensive controls against attack chains.*
 
-12. ☁️ **[CloudQuery](https://github.com/cloudquery/cloudquery)** [![GitHub Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers)  
+12. ☁️ **[CloudQuery](https://github.com/cloudquery/cloudquery)** [![GitHub_Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers)  
     *High-performance open-source ELT framework extracting multi-cloud infrastructure and SaaS configurations into SQL databases for asset inventory.*
 
-13. 🔌 **[Naabu](https://github.com/projectdiscovery/naabu)** [![GitHub Stars](https://img.shields.io/github/stars/projectdiscovery/naabu?style=social&color=white)](https://github.com/projectdiscovery/naabu/stargazers)  
+13. 🔌 **[Naabu](https://github.com/projectdiscovery/naabu)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/naabu?style=social&color=white)](https://github.com/projectdiscovery/naabu/stargazers)  
     *Fast, reliable port scanner written in Go engineered for rapid SYN/CONNECT discovery sweeps across enterprise perimeter ranges.*
 
-14. 🕵️ **[Recon-ng](https://github.com/lanmaster53/recon-ng)** [![GitHub Stars](https://img.shields.io/github/stars/lanmaster53/recon-ng?style=social&color=white)](https://github.com/lanmaster53/recon-ng/stargazers)  
+14. 🕵️ **[Recon-ng](https://github.com/lanmaster53/recon-ng)** [![GitHub_Stars](https://img.shields.io/github/stars/lanmaster53/recon-ng?style=social&color=white)](https://github.com/lanmaster53/recon-ng/stargazers)  
     *Full-featured web reconnaissance framework providing independent modules, database persistence, and interactive discovery workflows.*
 
-15. 📸 **[Aquatone](https://github.com/michenriksen/aquatone)** [![GitHub Stars](https://img.shields.io/github/stars/michenriksen/aquatone?style=social&color=white)](https://github.com/michenriksen/aquatone/stargazers)  
+15. 📸 **[Aquatone](https://github.com/michenriksen/aquatone)** [![GitHub_Stars](https://img.shields.io/github/stars/michenriksen/aquatone?style=social&color=white)](https://github.com/michenriksen/aquatone/stargazers)  
     *Visual attack surface inspection and web screenshotting tool for reconnaissance and validating exposed web interfaces on discovered assets.*
 
-16. 🥋 **[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub Stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers)  
+16. 🥋 **[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub_Stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers)  
     *Leading open-source DevSecOps vulnerability management and risk prioritization hub aggregating assets and findings from 150+ security scanners.*
 
-17. 📷 **[gowitness](https://github.com/sensepost/gowitness)** [![GitHub Stars](https://img.shields.io/github/stars/sensepost/gowitness?style=social&color=white)](https://github.com/sensepost/gowitness/stargazers)  
+17. 📷 **[gowitness](https://github.com/sensepost/gowitness)** [![GitHub_Stars](https://img.shields.io/github/stars/sensepost/gowitness?style=social&color=white)](https://github.com/sensepost/gowitness/stargazers)  
     *Golang-based web screenshot utility utilizing Chrome Headless to visually triage external assets and exposed web interfaces.*
 
-18. 🗺️ **[Cartography](https://github.com/cartography-cncf/cartography)** [![GitHub Stars](https://img.shields.io/github/stars/cartography-cncf/cartography?style=social&color=white)](https://github.com/cartography-cncf/cartography/stargazers)  
+18. 🗺️ **[Cartography](https://github.com/cartography-cncf/cartography)** [![GitHub_Stars](https://img.shields.io/github/stars/cartography-cncf/cartography?style=social&color=white)](https://github.com/cartography-cncf/cartography/stargazers)  
     *CNCF infrastructure asset consolidation tool built by Lyft ingesting AWS, GCP, Azure, Kubernetes, and Okta assets into Neo4j attack graphs.*
 
-19. 🩸 **[BloodHound](https://github.com/SpecterOps/BloodHound)** [![GitHub Stars](https://img.shields.io/github/stars/SpecterOps/BloodHound?style=social&color=white)](https://github.com/SpecterOps/BloodHound/stargazers)  
+19. 🩸 **[BloodHound](https://github.com/SpecterOps/BloodHound)** [![GitHub_Stars](https://img.shields.io/github/stars/SpecterOps/BloodHound?style=social&color=white)](https://github.com/SpecterOps/BloodHound/stargazers)  
     *Premier open-source graph-based attack path analysis platform mapping identity and privilege escalation paths across Active Directory and Azure/Entra ID.*
 
-20. 🦗 **[Mantis](https://github.com/google/mantis)** [![GitHub Stars](https://img.shields.io/github/stars/google/mantis?style=social&color=white)](https://github.com/google/mantis/stargazers)  
+20. 🦗 **[Mantis](https://github.com/google/mantis)** [![GitHub_Stars](https://img.shields.io/github/stars/google/mantis?style=social&color=white)](https://github.com/google/mantis/stargazers)  
     *Google-developed attack surface management and security asset discovery framework automating subdomain discovery, port scanning, and exposure detection.*
 
-21. 🧭 **[MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator)** [![GitHub Stars](https://img.shields.io/github/stars/mitre-attack/attack-navigator?style=social&color=white)](https://github.com/mitre-attack/attack-navigator/stargazers)  
+21. 🧭 **[MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator)** [![GitHub_Stars](https://img.shields.io/github/stars/mitre-attack/attack-navigator?style=social&color=white)](https://github.com/mitre-attack/attack-navigator/stargazers)  
     *Official MITRE web application for visualizing, annotating, and mapping adversary tactics and techniques onto organizational threat models.*
 
-22. 🐉 **[OWASP Threat Dragon](https://github.com/OWASP/threat-dragon)** [![GitHub Stars](https://img.shields.io/github/stars/OWASP/threat-dragon?style=social&color=white)](https://github.com/OWASP/threat-dragon/stargazers)  
+22. 🐉 **[OWASP Threat Dragon](https://github.com/OWASP/threat-dragon)** [![GitHub_Stars](https://img.shields.io/github/stars/OWASP/threat-dragon?style=social&color=white)](https://github.com/OWASP/threat-dragon/stargazers)  
     *Flagship OWASP open-source threat modeling studio supporting STRIDE, LINDDUN, CIA, and DIE methodologies with DFD diagramming.*
 
-23. 🤖 **[AttackGen](https://github.com/mrwadams/attackgen)** [![GitHub Stars](https://img.shields.io/github/stars/mrwadams/attackgen?style=social&color=white)](https://github.com/mrwadams/attackgen/stargazers)  
+23. 🤖 **[AttackGen](https://github.com/mrwadams/attackgen)** [![GitHub_Stars](https://img.shields.io/github/stars/mrwadams/attackgen?style=social&color=white)](https://github.com/mrwadams/attackgen/stargazers)  
     *Cybersecurity incident response and adversary simulation testing tool leveraging LLMs and the MITRE ATT&CK framework to generate tailored threat scenarios.*
 
-24. 🔎 **[OWASP Maryam](https://github.com/saeeddhqan/Maryam)** [![GitHub Stars](https://img.shields.io/github/stars/saeeddhqan/Maryam?style=social&color=white)](https://github.com/saeeddhqan/Maryam/stargazers)  
+24. 🔎 **[OWASP Maryam](https://github.com/saeeddhqan/Maryam)** [![GitHub_Stars](https://img.shields.io/github/stars/saeeddhqan/Maryam?style=social&color=white)](https://github.com/saeeddhqan/Maryam/stargazers)  
     *Modular open-source OSINT and web-based asset reconnaissance framework written in Python for external footprinting and intelligence gathering.*
 
-25. 🐍 **[pytm](https://github.com/OWASP/pytm)** [![GitHub Stars](https://img.shields.io/github/stars/OWASP/pytm?style=social&color=white)](https://github.com/OWASP/pytm/stargazers)  
+25. 🐍 **[pytm](https://github.com/OWASP/pytm)** [![GitHub_Stars](https://img.shields.io/github/stars/OWASP/pytm?style=social&color=white)](https://github.com/OWASP/pytm/stargazers)  
     *Pythonic Threat-Modeling-as-Code framework by OWASP enabling security architects to define systems in Python and auto-generate DFDs and reports.*
 
-26. 📝 **[Threat Composer](https://github.com/awslabs/threat-composer)** [![GitHub Stars](https://img.shields.io/github/stars/awslabs/threat-composer?style=social&color=white)](https://github.com/awslabs/threat-composer/stargazers)  
+26. 📝 **[Threat Composer](https://github.com/awslabs/threat-composer)** [![GitHub_Stars](https://img.shields.io/github/stars/awslabs/threat-composer?style=social&color=white)](https://github.com/awslabs/threat-composer/stargazers)  
     *AWS-developed interactive threat modeling tool designed to help developers and architects compose, organize, and export threat models directly in browsers or CI.*
 
-27. 📐 **[Threagile](https://github.com/Threagile/threagile)** [![GitHub Stars](https://img.shields.io/github/stars/Threagile/threagile?style=social&color=white)](https://github.com/Threagile/threagile/stargazers)  
+27. 📐 **[Threagile](https://github.com/Threagile/threagile)** [![GitHub_Stars](https://img.shields.io/github/stars/Threagile/threagile?style=social&color=white)](https://github.com/Threagile/threagile/stargazers)  
     *Agile Threat-Modeling-as-Code toolkit in Go modeling architectures in YAML, running automated risk evaluation rules and generating DFDs and reports.*
 
 ---
